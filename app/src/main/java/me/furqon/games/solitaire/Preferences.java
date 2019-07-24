@@ -14,11 +14,10 @@
   limitations under the License.
 */
 
-package net.sourceforge.solitaire_cg;
+package me.furqon.games.solitaire;
 
-import net.sourceforge.solitaire_cg.R;
+import me.furqon.games.solitaire.R;
 
-import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;

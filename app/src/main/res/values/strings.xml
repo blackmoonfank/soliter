@@ -17,7 +17,7 @@
   Modified by Curtis Gedak 2015, 2016, 2017
   -->
 <resources>
-    <string name="app_name">SolitaireCG</string>
+    <string name="app_name">Solitaire</string>
     <string name="menu_bakersgame">Freecell (by suit: Baker\'s)</string>
     <string name="menu_blackwidow">Spider (1 suit: black widow)</string>
     <string name="menu_fortythieves">Forty Thieves</string>
@@ -73,7 +73,7 @@ TIP:  Long press ^ at bottom center of screen for alternate menu.
 
     <!-- Messages shown on the help window -->
 
-    <!-- The argument is the version number of the SolitaireCG application -->
+    <!-- The argument is the version number of the Solitaire application -->
     <string name="help_window_title">SolitaireCG %s Help</string>
     <string name="readme_header">README file from source code</string>
     <string name="copying_header">COPYING file from source code</string>

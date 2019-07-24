@@ -73,7 +73,7 @@ VINKKI:  Paina pitkään ^-merkkiä ruudun keskiosan alalaidassa tuodaksesi esii
 
     <!-- Messages shown on the help window -->
 
-    <!-- The argument is the version number of the SolitaireCG application -->
+    <!-- The argument is the version number of the Solitaire application -->
     <string name="help_window_title">SolitaireCG:n version %s ohjeet</string>
     <string name="readme_header">Lähdekoodin README-tiedosto</string>
     <string name="copying_header">Lähdekoodin COPYING-tiedosto</string>

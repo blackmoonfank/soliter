@@ -14,7 +14,7 @@
   limitations under the License.
 */
 
-package net.sourceforge.solitaire_cg;
+package me.furqon.games.solitaire;
 
 import android.content.Context;
 
