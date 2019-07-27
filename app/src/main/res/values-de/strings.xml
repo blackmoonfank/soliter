@@ -71,7 +71,7 @@ TIPP: Lange auf die ^ Taste unten am Spielfeld drücken, um ein alternatives Men
 
     <!-- Messages shown on the help window -->
 
-    <!-- The argument is the version number of the SolitaireCG application -->
+    <!-- The argument is the version number of the Solitaire application -->
     <string name="help_window_title">SolitaireCG %s Hilfe</string>
     <string name="readme_header">LIESMICH Datei aus dem Quellcode</string>
     <string name="copying_header">COPYING Datei aus dem Quellcode</string>

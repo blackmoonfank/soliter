@@ -15,7 +15,7 @@
 
   Modified by Curtis Gedak 2015, 2016, 2017
 */
-package net.sourceforge.solitaire_cg;
+package me.furqon.games.solitaire;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -28,7 +28,6 @@ import android.util.Log;
 import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.SubMenu;
 import android.view.View;
@@ -37,7 +36,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 // Base activity class.
-public class SolitaireCG extends Activity {
+public class Solitaire extends Activity {
 
   public static String VERSION_NAME = "";
 
@@ -117,7 +116,7 @@ public class SolitaireCG extends Activity {
     try {
       VERSION_NAME = getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
     } catch (NameNotFoundException e) {
-      Log.e("SolitaireCG.java", e.getMessage());
+      Log.e("Solitaire.java", e.getMessage());
     }
   }
 

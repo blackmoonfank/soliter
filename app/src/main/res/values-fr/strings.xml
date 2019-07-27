@@ -71,7 +71,7 @@ CONSEIL :  Appuyez longtemps sur ^ en bas au centre de l\'écran pour afficher l
 
     <!-- Messages shown on the help window -->
 
-    <!-- The argument is the version number of the SolitaireCG application -->
+    <!-- The argument is the version number of the Solitaire application -->
     <string name="help_window_title">Aide SolitaireCG %s</string>
     <string name="readme_header">Fichier README du code source</string>
     <string name="copying_header">Fichier COPYING du code source</string>

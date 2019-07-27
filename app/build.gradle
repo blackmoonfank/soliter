@@ -17,14 +17,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 4
+    compileSdkVersion 29
 
     defaultConfig {
-        applicationId "net.sourceforge.solitaire_cg"
-        minSdkVersion 4
-        targetSdkVersion 4
-        versionCode 730
-        versionName "3.3"
+        applicationId 'me.furqon.games.solitaire'
+        minSdkVersion 14
+        targetSdkVersion 28
+        versionCode 2
+        versionName "1.0.1"
     }
 
     buildTypes {
@@ -33,4 +33,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+}
+
+dependencies {
+    implementation 'com.google:google:5'
+    implementation 'com.google.android.gms:play-services-games:18.0.0'
 }

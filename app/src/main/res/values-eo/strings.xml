@@ -71,7 +71,7 @@ KONSILO:  Premtenu ^ ĉe suba centro de ekrano por montri alternativan menuon.
 
     <!-- Messages shown on the help window -->
 
-    <!-- The argument is the version number of the SolitaireCG application -->
+    <!-- The argument is the version number of the Solitaire application -->
     <string name="help_window_title">Helpo por Paciencludo %s</string>
     <string name="readme_header">Dosiero README el fontkodo</string>
     <string name="copying_header">Dosiero COPYING el fontkodo</string>
