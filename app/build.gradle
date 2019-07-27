@@ -23,8 +23,8 @@ android {
         applicationId 'me.furqon.games.solitaire'
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0.0"
+        versionCode 2
+        versionName "1.0.1"
     }
 
     buildTypes {
@@ -33,4 +33,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+}
+
+dependencies {
+    implementation 'com.google:google:5'
+    implementation 'com.google.android.gms:play-services-games:18.0.0'
 }
